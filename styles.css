@@ -37,10 +37,10 @@ h1{
 }
 h2{
   font-size: 8px;
- 
+ color: #777777;
 }
 .price-block{
-	 color: white;
+  color: rgb(255, 255, 255);
   font-size: 9px;
   text-align: center;
   padding: 5px;
