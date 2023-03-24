@@ -27,7 +27,9 @@ img{
   margin-right: auto;
 
 }
-
+.book-library{
+	backgroud-color:#ffffff;
+}
 .book{
   padding: 10px;
 }
@@ -40,7 +42,7 @@ h1{
   color: #777777;
 }
 .price-block{
-  color: rgb(255, 255, 255);
+  color: white;
   font-size: 9px;
   text-align: center;
   padding: 5px;
