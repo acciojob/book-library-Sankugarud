@@ -32,6 +32,8 @@ img{
 }
 .book{
   padding: 10px;
+	backgroud-color:white;
+	border-radius: 2px;
 }
 h1{
   font-size: 10px;
@@ -39,7 +41,7 @@ h1{
 }
 .author{
   font-size: 8px;
-  color: #777777;
+  color: rgb(119, 119, 119);
 }
 .price-block{
   color: white;
